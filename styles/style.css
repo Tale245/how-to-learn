@@ -149,7 +149,6 @@
   list-style: none;
 }
 .table__heading {
-  border: 1px solid red;
   margin: 0;
   line-height: 1.15;
   font-size: 24px;
@@ -239,7 +238,7 @@
   margin-top: 80px;
 }
 .kaufman__trangle {
-  background-image: url(/images/kaufman-triangle.svg);
+  background-image: url(../images/kaufman-triangle.svg);
   background-size: 877px 877px;
   position: absolute;
   top: 0;
