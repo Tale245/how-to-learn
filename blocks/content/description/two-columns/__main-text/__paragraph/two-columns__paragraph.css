@@ -1,0 +1,10 @@
+.two-colomns__paragraph {
+    margin: 0;
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: normal;
+    padding-bottom: 30px;
+  }
+  .two-colomns__paragraph:last-of-type {
+    padding-bottom: 0;
+  }
